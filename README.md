@@ -1,2 +1,2 @@
-# ml_practice
-This repository contains ml projects for practice
+# ML Practice
+This repository contains ml projects for practice.
